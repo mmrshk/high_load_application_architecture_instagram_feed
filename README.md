@@ -49,7 +49,8 @@ Timeline
 
 ## Step 2: Create a high-level design
 
-<img width="1108" alt="Screenshot 2024-03-27 at 15 43 33" src="https://github.com/mmrshk/high_load_application_architecture_instagram_feed/assets/31416671/2e932c54-f38e-44cb-93d1-84afd2a2527f">
+<img width="944" alt="Screenshot 2024-03-27 at 16 00 41" src="https://github.com/mmrshk/high_load_application_architecture_instagram_feed/assets/31416671/86d741cf-c405-4868-ac69-4ef7f30d9fb3">
+
 
 ## Use case: 
 ### 1. User posts a post into profile
